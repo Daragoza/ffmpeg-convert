@@ -1,2 +1,2 @@
 # ffmpeg-convert
-Batch converting of files into mp3 using ffmpeg
+Batch converting of files into mp3 using ffmpeg (https://ffmpeg.org/)
